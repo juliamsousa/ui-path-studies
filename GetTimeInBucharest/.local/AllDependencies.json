@@ -5635,15 +5635,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\julia\\.nuget\\packages\\": {}
+    "C:\\Users\\julia.sousa\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "GetTimeInBucharest",
       "projectName": "GetTimeInBucharest",
-      "projectPath": "C:\\Users\\julia\\Documents\\UiPath\\GetTimeInBucharest\\.local",
-      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\Documents\\UiPath\\GetTimeInBucharest\\.local"
+      "projectPath": "C:\\Users\\julia.sousa\\Documents\\Github\\ui-path-studies\\GetTimeInBucharest\\.local",
+      "packagesPath": "C:\\Users\\julia.sousa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\julia.sousa\\Documents\\Github\\ui-path-studies\\GetTimeInBucharest\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5674,7 +5674,7 @@
             "version": "[21.4.4, 21.4.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\julia\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\julia.sousa\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
       }
     }
   }
